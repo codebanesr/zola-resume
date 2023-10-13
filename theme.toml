@@ -1,9 +1,9 @@
 name = "resume"
 description = "A resume theme"
 license = "MIT"
-homepage = "https://github.com/alongwy/zola-resume"
+homepage = "https://github.com/codebanesr/zola-resume"
 min_version = "0.11.0"
-demo = "https://resume.alongwy.top"
+demo = "https://resume.applesauce.co.in"
 
 compile_sass = true
 generate_feed = true
@@ -13,10 +13,10 @@ taxonomies = [
 ]
 
 [extra]
-first_name = "Feng"
-last_name = "Yunlong"
-address = "Harbin, China"
-email = "ylfeng@ir.hit.edu.cn"
+first_name = "Shanur"
+last_name = "Rahman"
+address = "New Delhi, India"
+email = "shanur.cse.nitap@gmail.com"
 favicon = "/favicon.ico"
 avatar = "/media/avatar.png"
 
