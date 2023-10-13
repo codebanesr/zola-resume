@@ -1,26 +1,26 @@
 [
     {
-        "role": "Developer",
-        "company": "[HIT Social Computing and Information Retrieval Research Center](http://ir.hit.edu.cn/)",
-        "summary": "[Development Language Technology Platform v4](https://github.com/HIT-SCIR/ltp)",
-        "range": "September 2019 - NOW"
+        "role": "Senior Product Specialist",
+        "company": "[PENNY](https://penny.co/)",
+        "summary": "Took an active role in all stages of the software development life cycle. Spearheaded software development initiatives as a recognized expert in the subject matter, serving as the primary liaison for project management personnel. Orchestrated the seamless adoption of RabbitMQ with horizontal scaling to optimize event management and file processing. Transformed the core backend functionality by migrating from in-memory CQRS to utilizing RabbitMQ, resulting in a highly efficient microservice architecture.",
+        "range": "April 2022 - Present"
     },
     {
-        "role": "Developer",
-        "company": "[Yunfutech](https://www.yunfutech.com/)",
-        "summary": "Developmet a collections of nlp tools",
-        "range": "July 2019 -  September 2019"
+        "role": "Senior Product Engineer",
+        "company": "[RAPIDO](https://rapido.bike/)",
+        "summary": "Drafted clear technical documentation, detailing product design specifications. Orchestrated efficient large-scale software deployments with Kubernetes. Trained and mentored junior developers and engineers, teaching skills in scalable microservices deployment and working to improve overall team performance. Updated the dependencies on a handful of older microservices. Decoupling functionalities from various microservices was also worked on for improved CPU and memory consumption.",
+        "range": "March 2021 - April 2022"
     },
     {
-        "role": "Developer",
-        "company": "[HIT Web Intellegence Lab](http://wi.hit.edu.cn/)",
-        "summary": "Implemented English part and management Tool of WI IME",
-        "range": "July 2018 - September 2018"
+        "role": "Full Stack Developer",
+        "company": "[GAMECHANGE SOLUTIONS](https://gamechange.com/)",
+        "summary": "Wrote and reviewed code for a microservice backend built using MongoDB, Nats Streaming, and WebSocket. Wrote test cases and handled code deployments on AWS EC2 instances. Built co-browsing feature on the sales-key app from start to finish.",
+        "range": "February 2020 - March 2021"
     },
     {
-        "role": "Developer",
-        "company": "[HIT Social Computing and Information Retrieval Research Center](http://ir.hit.edu.cn/)",
-        "summary": "[Development Language Technology Platform v3](https://github.com/HIT-SCIR/ltp/tree/3.X)",
-        "range": "September 2017 -  December 2017"
+        "role": "Full Stack Developer",
+        "company": "[DEEPIQ LLC](https://deepiq.com/)",
+        "summary": "Created the UI for the data transformation pipelining tool using Angular 7 and Node.js that was used by big data companies, including Cloudera and Hortonworks. Developed object-oriented software, including Data Transformation for use in the Analytics Industry.",
+        "range": "July 2018 - December 2019"
     }
 ]

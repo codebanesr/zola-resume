@@ -1,6 +1,6 @@
 ---
-title: Open Source Contributions
-date: 2020-01-07T16:49:15.046Z
+title: My Open Source Contributions
+date: 2023-10-13T10:00:00.000Z
 ---
 
-A collection of efforts to which I contributed, but did not create. Contributing back to Open Source projects is a strong passion of mine, and requires a considerate approach to learn norms, standards and approach for each community for a successful merge!
+I have been actively contributing to Open Source projects since 2014. It's a strong passion of mine, and I have had the opportunity to participate in various initiatives. This journey has allowed me to learn the norms, standards, and approaches for different communities, ensuring successful merges and fostering open-source collaboration.

@@ -2,12 +2,13 @@
 title: "About"
 ---
 
-### Hi there 👋 I'm Yunlong Feng. A PhD student in Harbin Institute of Technology.
+### Hi there 👋 I'm Shanur Rahman. A Senior Product Specialist in Penny.
 
-- 🌱 I’m currently learning nlp and rust in [scir](https://ir.hit.edu.cn).
-- 💬 Ask me anything [here](https://github.com/alongwy/alongwy/issues).
-- 📫 How to reach me: [Mail](mailto:ylfeng@ir.hit.edu.cn) [Gmail](mailto:alongwyforever@gmail.com) [Outlook](mailto:alongwyforever@outlook.com)
-- 🐯 My GitHub [Overview](https://github.com/alongwy) and side project [NotCraft](https://notcraft.alongwy.top)
+- 🌱 I’m currently working on software development initiatives and optimizing event management and file processing with RabbitMQ.
+- I am a significant contributor to the open-source project OpenCopilot. This project, which uses langchain and supports multiple large language models and vector databases, has garnered over 3000 GitHub stars. I actively engage with the community, addressing issues and helping new contributors.
+- 💬 Ask me anything [here](https://github.com/codebanesr/codebanesr/issues).
+- 📫 How to reach me: [Mail](mailto:shanur.cse.nitap@gmail.com) [LinkedIn](https://www.linkedin.com/in/shanurcsenitap) [GitHub](https://github.com/codebanesr)
+- 🐯 My GitHub [Overview](https://github.com/codebanesr) and past project [OpenChat](https://github.com/codebanesr/OpenChat)
 
-[![Stat](https://github-readme-stats.vercel.app/api?username=alongwy&count_private=true&show_icons=true&line_height=20&theme=default)](https://github.com/alongwy)
-[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alongwy&layout=compact&hide=HTML,PostScript&theme=default_repocard)](https://github.com/alongwy)
+[![Stat](https://github-readme-stats.vercel.app/api?username=codebanesr&count_private=true&show_icons=true&line_height=20&theme=default)](https://github.com/codebanesr)
+[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebanesr&layout=compact&hide=HTML&theme=default_repocard)](https://github.com/codebanesr)

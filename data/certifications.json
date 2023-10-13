@@ -1,8 +1,14 @@
 [
 	{
-		"name": "Arctic Code Vault Contributor",
-		"description": "Along contributed code to several repositories in the 2020 GitHub Archive Program.",
-		"badge": "https://github.githubassets.com/images/modules/profile/badge--acv-64.png",
-		"proof": "https://github.com/AlongWY"
+		"name": "OpenChat Contributor",
+		"description": "Contributed significantly (over 30%) to the OpenChat project, an open source AI customer support bots system. The project is written using langchain and supports multiple large language models and vector databases. It has over 4500+ GitHub stars.",
+		"badge": "https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png",
+		"proof": "https://github.com/openchatai/OpenChat"
+	},
+	{
+		"name": "OpenCopilot Contributor",
+		"description": "OpenCopilot allows you to have your own product's AI copilot. It integrates with your underlying APIs and is able to execute API calls whenever needed. It has over 3000 stars on Github",
+		"badge": "https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png",
+		"proof": "https://github.com/openchatai/OpenCopilot"
 	}
 ]

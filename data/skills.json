@@ -1,82 +1,53 @@
 [
   {
-    "grouping": "Languages, Operating Systems & Tools",
-    "skills": [
-      "Cplusplus",
-      "Rust",
-      "Java",
-      "Python",
-      "git",
-      "linux",
-      "bash",
-      "javascript"
-    ]
+      "grouping": "Languages & Development",
+      "skills": [
+          "C++",
+          "Rust",
+          "Java (Vert.x)",
+          "Python",
+          "JavaScript"
+      ]
   },
   {
-    "grouping": "Platform Development & Administration",
-    "skills": [
-      "NGINX",
-      "MySQL",
-      {
-        "name": "Slurm",
-        "icon": "bash"
-      }
-    ]
+      "grouping": "Web Development",
+      "skills": [
+          "Node.js",
+          "Angular",
+          "React"
+      ]
   },
   {
-    "grouping": "Data Management",
-    "skills": [
-      {
-        "name": "MySQL/MariaDB",
-        "icon": "MySQL"
-      },
-      {
-        "name": "Sqlite",
-        "icon": "bash"
-      }
-    ]
+      "grouping": "Database & Data Management",
+      "skills": [
+          "MongoDB",
+          "Nats Streaming",
+          "WebSocket",
+          "Sqlite",
+          "MySQL/MariaDB"
+      ]
   },
   {
-    "grouping": "Architecture",
-    "skills": [
-      {
-        "name": "IP Networking",
-        "icon": "bash"
-      },
-      {
-        "name": "DNS",
-        "icon": "bash"
-      },
-      {
-        "name": "Firewalls",
-        "icon": "bash"
-      },
-      {
-        "name": "Load Balancing",
-        "icon": "bash"
-      },
-      {
-        "name": "Microservices",
-        "icon": "bash"
-      },
-      {
-        "name": "RESTful APIs",
-        "icon": "bash"
-      }
-    ]
+      "grouping": "Cloud Technologies",
+      "skills": [
+          "AWS",
+          {
+              "name": "Aliyun",
+              "link": "https://aliyun.com"
+          }
+      ]
   },
   {
-    "grouping": "Containers & Cloud",
-    "skills": [
-      {
-        "name": "Docker",
-        "link": "https://docker.com"
-      },
-      {
-        "name": "Aliyun",
-        "link": "https://aliyun.com",
-        "icon": "bash"
-      }
-    ]
+      "grouping": "Version Control",
+      "skills": [
+          "Git"
+      ]
+  },
+  {
+      "grouping": "Containers & Deployment",
+      "skills": [
+          "Docker",
+          "Kubernetes"
+      ]
   }
 ]

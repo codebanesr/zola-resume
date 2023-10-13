@@ -1,34 +1,22 @@
 [
   {
-    "name": "WeiXin",
-    "link": "img/wechat.png"
-  },
-  {
-    "name": "QQ",
-    "link": "img/qq.png"
-  },
-  {
     "name": "GitHub",
-    "link": "https://github.com/AlongWY"
+    "link": "https://github.com/codebanesr/"
   },
   {
-    "name": "Gitlab",
-    "link": "https://gitlab.com/AlongWY"
+    "name": "GitLab",
+    "link": "https://gitlab.com/shanur.cse.nitap"
   },
   {
-    "name": "Bitbucket",
-    "link": "https://bitbucket.org/alongwy"
+    "name": "LinkedIn",
+    "link": "www.linkedin.com/in/shanurcsenitap"
   },
   {
     "name": "Docker",
-    "link": "https://hub.docker.com/u/alongwy"
+    "link": "https://hub.docker.com/u/codebanesr"
   },
   {
-    "name": "Python",
-    "link": "https://pypi.org/user/ylfeng"
-  },
-  {
-    "name": "Google",
-    "link": "mailto://alongwyforever@outlook.com"
+    "name": "Email",
+    "link": "shanur.cse.nitap@gmail.com"
   }
 ]

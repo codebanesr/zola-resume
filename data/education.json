@@ -1,16 +1,9 @@
 [
     {
-        "school": "[Harbin Institute of Technology](https://hit.edu.cn)",
-        "degree": "Computer Science and Technology",
-        "major": "Linear algebra, Multivariable calculus, Algorithm",
-        "notes": "Bachelor of Engineering",
-        "range": "2016 - 2020"
-    },
-    {
-        "school": "[Harbin Institute of Technology](https://hit.edu.cn)",
-        "degree": "Computer Science and Technology",
-        "major": "Natural language processing",
-        "notes": "Master of Engineering & PhD",
-        "range": "2020 - NOW"
+        "school": "[National Institute of Technology](https://www.nitap.ac.in/)",
+        "degree": "Computer Science",
+        "major": "GPA: 8.35",
+        "notes": "Bachelor's Degree",
+        "range": "2014 - 2018"
     }
 ]
